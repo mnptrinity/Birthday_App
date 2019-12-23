@@ -1,0 +1,18 @@
+<h1>BirthDay App</h1>
+<form method="POST" action="/">
+  
+  <div class="form-group row" style="margin-top: 40px;">
+    <div class="col-sm-10">
+      <input type="email" class="form-control" id="inputPassword" name="email" placeholder="user unique mail id" required>
+    </div>
+      <button type="submit" class="btn btn-primary">Check</button>
+
+  </div>
+</form>
+
+{{#if result}}
+  <li class="list-group-item">{{result}}</li>
+{{/if}}
+{{#if noresults}}
+  <li class="list-group-item list-group-item-danger">{{noresults}}</li>
+{{/if}}

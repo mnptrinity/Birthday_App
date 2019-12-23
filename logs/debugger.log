@@ -1,0 +1,78 @@
+[2019-12-23T13:17:34.269] [INFO]   - Mongoose Connection Successful
+[2019-12-23T13:18:57.332] [INFO]   - Mongoose Connection Successful
+[2019-12-23T13:19:18.414] [INFO]   - Mongoose Connection Successful
+[2019-12-23T13:19:41.705] [INFO]   - Mongoose Connection Successful
+[2019-12-23T13:19:57.030] [INFO]   - Mongoose Connection Successful
+[2019-12-23T13:21:51.660] [INFO] default - Mongoose Connection Successful
+[2019-12-23T13:25:56.568] [INFO] default - Mongoose Connection Successful
+[2019-12-23T13:26:17.950] [INFO] default - Mongoose Connection Successful
+[2019-12-23T13:26:37.275] [INFO] default - Mongoose Connection Successful
+[2019-12-23T13:27:28.295] [INFO] default - Mongoose Connection Successful
+[2019-12-23T13:27:53.221] [INFO] default - Mongoose Connection Successful
+[2019-12-23T14:06:09.381] [INFO] default - Mongoose Connection Successful
+[2019-12-23T14:09:00.684] [INFO] default - Mongoose Connection Successful
+[2019-12-23T14:12:05.596] [INFO] default - Mongoose Connection Successful
+[2019-12-23T14:12:14.275] [INFO] default - Mongoose Connection Successful
+[2019-12-23T14:15:12.235] [INFO] default - Mongoose Connection Successful
+[2019-12-23T14:17:26.746] [INFO] default - Mongoose Connection Successful
+[2019-12-23T14:18:14.333] [INFO] default - Mongoose Connection Successful...
+[2019-12-23T14:18:40.682] [INFO] default - Mongoose Connection Successful...
+[2019-12-23T14:20:09.800] [INFO] default - Mongoose Connection Successful...
+[2019-12-23T14:21:56.334] [INFO] default - Mongoose Connection Successful...
+[2019-12-23T14:22:39.900] [INFO] default - Mongoose Connection Successful...
+[2019-12-23T14:22:53.319] [INFO] default - User checking for the data :  [Object: null prototype] { dob: '2019-12-23' }
+[2019-12-23T14:22:53.385] [INFO] default - data [{"_id":"5e0047dd540ba8133073fa62","email":"abc@gmail.com","dob":"2018-12-23T00:00:00.000Z","created_At":"2019-12-23T04:51:41.442Z","__v":0},{"_id":"5e005e3e2ef31717a4452171","email":"demo@gmail.com","dob":"2019-12-23T00:00:00.000Z","created_At":"2019-12-23T06:27:10.086Z","__v":0},{"_id":"5e00627587209e1820416e15","email":"helo@mail.com","dob":"2019-12-23T00:00:00.000Z","created_At":"2019-12-23T06:45:09.540Z","__v":0}]
+[2019-12-23T14:22:53.385] [INFO] default - Users having birthday at 2019-12-23 are :  [ { _id: 5e0047dd540ba8133073fa62,
+    email: 'abc@gmail.com',
+    dob: 2018-12-23T00:00:00.000Z,
+    created_At: 2019-12-23T04:51:41.442Z,
+    __v: 0 },
+  { _id: 5e005e3e2ef31717a4452171,
+    email: 'demo@gmail.com',
+    dob: 2019-12-23T00:00:00.000Z,
+    created_At: 2019-12-23T06:27:10.086Z,
+    __v: 0 },
+  { _id: 5e00627587209e1820416e15,
+    email: 'helo@mail.com',
+    dob: 2019-12-23T00:00:00.000Z,
+    created_At: 2019-12-23T06:45:09.540Z,
+    __v: 0 } ]
+[2019-12-23T14:23:38.889] [INFO] default - Mongoose Connection Successful...
+[2019-12-23T14:23:49.108] [INFO] default - User checking for the data :  [Object: null prototype] { dob: '2019-12-23' }
+[2019-12-23T14:23:49.177] [INFO] default - data
+[2019-12-23T14:23:49.178] [INFO] default - Users having birthday at 2019-12-23 are :  [ { _id: 5e0047dd540ba8133073fa62,
+    email: 'abc@gmail.com',
+    dob: 2018-12-23T00:00:00.000Z,
+    created_At: 2019-12-23T04:51:41.442Z,
+    __v: 0 },
+  { _id: 5e005e3e2ef31717a4452171,
+    email: 'demo@gmail.com',
+    dob: 2019-12-23T00:00:00.000Z,
+    created_At: 2019-12-23T06:27:10.086Z,
+    __v: 0 },
+  { _id: 5e00627587209e1820416e15,
+    email: 'helo@mail.com',
+    dob: 2019-12-23T00:00:00.000Z,
+    created_At: 2019-12-23T06:45:09.540Z,
+    __v: 0 } ]
+[2019-12-23T14:24:15.976] [INFO] default - Mongoose Connection Successful...
+[2019-12-23T14:24:34.707] [INFO] default - Mongoose Connection Successful...
+[2019-12-23T14:25:09.615] [INFO] default - Mongoose Connection Successful...
+[2019-12-23T14:25:31.830] [INFO] default - Mongoose Connection Successful...
+[2019-12-23T14:25:37.878] [INFO] default - User checking for the data :  [Object: null prototype] { dob: '2019-12-23' }
+[2019-12-23T14:25:37.948] [INFO] default - Users having birthday at 2019-12-23 are :  [ { _id: 5e0047dd540ba8133073fa62,
+    email: 'abc@gmail.com',
+    dob: 2018-12-23T00:00:00.000Z,
+    created_At: 2019-12-23T04:51:41.442Z,
+    __v: 0 },
+  { _id: 5e005e3e2ef31717a4452171,
+    email: 'demo@gmail.com',
+    dob: 2019-12-23T00:00:00.000Z,
+    created_At: 2019-12-23T06:27:10.086Z,
+    __v: 0 },
+  { _id: 5e00627587209e1820416e15,
+    email: 'helo@mail.com',
+    dob: 2019-12-23T00:00:00.000Z,
+    created_At: 2019-12-23T06:45:09.540Z,
+    __v: 0 } ]
+[2019-12-23T14:26:02.442] [INFO] default - Mongoose Connection Successful...
