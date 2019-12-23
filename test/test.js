@@ -1,6 +1,6 @@
 const chai = require("chai");
 const chaiHttp = require("chai-http");
-const server = require("../bin/www");
+const server = "http://localhost:3000";
 const {logger}=require("../Logger/logger_config");
 chai.use(chaiHttp);
  should = chai.should();
@@ -10,7 +10,7 @@ describe("Reading the user", () => {
 
   it("Checking the user having a birthday", done => {
     chai
-      .request("http://localhost:3000")
+      .request(server)
       .post("/")
       .send({email:"abc@gmail.com"})
       .end((err, res) => {
@@ -29,7 +29,7 @@ describe("Reading the user", () => {
 
   it("Checking the user doestn't have a birthday", done => {
     chai
-      .request("http://localhost:3000")
+      .request(server)
       .post("/")
       .send({email:"mohansasireka@gmail.com"})
       .end((err, res) => {
@@ -47,7 +47,7 @@ describe("Reading the user", () => {
 
   it("User not found", done => {
     chai
-      .request("http://localhost:3000")
+      .request(server)
       .post("/")
       .send({email:"demo@gmail.com"})
       .end((err, res) => {
